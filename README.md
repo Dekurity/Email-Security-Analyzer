@@ -102,4 +102,4 @@ Terima kasih kepada semua kontributor yang telah membantu dalam pengembangan pro
 
 | Nama Kontributor | Peran             |
 |------------------|-------------------|
-| Dekurity          | Pengembang Utama  |
+| - Dekurity(https://github.com/Dekurity)          | Pengembang Utama  |
