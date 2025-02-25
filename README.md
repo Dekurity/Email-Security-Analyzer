@@ -90,13 +90,9 @@ Skrip ini menghasilkan laporan PDF rinci bernama `email_security_report.pdf` di 
 
 Kami menyambut kontribusi untuk Email Security Analyzer! Jika Anda memiliki saran, laporan bug, atau permintaan fitur, silakan buka issue atau kirim pull request.
 
-## 📜 Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
 ## 📧 Kontak
 
-Untuk pertanyaan atau pertanyaan, silakan hubungi [dekurity@example.com].
+Untuk pertanyaan atau pertanyaan, silakan hubungi [dekurity@gmail.com].
 
 ---
 
